@@ -13,6 +13,7 @@ Plugin 'jelera/vim-javascript-syntax'
 Plugin 'pangloss/vim-javascript'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'Raimondi/delimitMate'
+Plugin 'benmills/vimux'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
