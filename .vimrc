@@ -14,6 +14,7 @@ Plugin 'pangloss/vim-javascript'
 Plugin 'nathanaelkane/vim-indent-guides'
 Plugin 'Raimondi/delimitMate'
 Plugin 'benmills/vimux'
+Plugin 'jparise/vim-graphql'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
