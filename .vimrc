@@ -42,3 +42,6 @@ set tabstop=2
 set shiftwidth=2
 " when pressing tab, insert 2 spaces
 set expandtab
+" set default character encoding to utf-8
+set fileencodings=utf-8
+set encoding=utf-8
